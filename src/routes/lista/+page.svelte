@@ -21,3 +21,5 @@
   <input placeholder="digite uma palavra" oninput={buscar}
 </div>
 
+weqafaf
+
